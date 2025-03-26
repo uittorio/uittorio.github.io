@@ -1,6 +1,6 @@
 title: Vittorio Guerriero
 description: Sharing my thoughts
-theme: minima
+remote_theme: jekyll/minima
 minima:
   social_links:
     - title: Github
