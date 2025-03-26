@@ -1,3 +1,8 @@
-title: Uittorio's
+title: Vittorio Guerriero
 description: Sharing my thoughts
 theme: minima
+minima:
+  social_links:
+    - title: Github
+      icon: github
+      url: "https://github.com/uittorio"
