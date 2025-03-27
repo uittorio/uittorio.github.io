@@ -26,7 +26,7 @@ When using the Figma designer, I noticed that I didn’t spend enough time defin
 - The experience with Cursor was mostly great; the software was really easy to use.
 - I had to nudge Cursor to look online for some issues. Since I did that, it was much easier to progress.
 - Even though I provided a design PNG to Cursor, it didn’t initially consider it.
-- At one point, Cursor made changes without me asking, changing the background back to black. I’m not sure if it was by mistake—for example, if one code change impacted another—or if it lost context and started doing its own thing.
+- At one point, Cursor made changes without me asking, changing the background back to black. I’m not sure if it was by mistake; for example, if one code change impacted another or if it lost context and started doing its own thing.
 - When asking for small changes, such as colors or spacing, I felt I could have done them quicker on my own. I wonder if I was using the tool the wrong way or if this is just how it works!
 
 ### Links
