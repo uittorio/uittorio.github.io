@@ -8,6 +8,8 @@ categories: blog
 
 I had some time off, and I decided to give it a try! I wanted to form my own opinion about using AI agents to create all the code for an app. Honestly, I am very pessimistic about this, but that's why I want to try.
 
+<img src="/assets/part-1.png" alt="part 1 youtube screnshot" style="max-width: 400px; width: 100%; height: auto;">
+
 ### What am I building?
 The app I want to build is called Reflect. It is an app that lets you take notes at the end of the day. The purpose of the app is to help you reflect on your workday, write down feedback you want to give, or note any actions to help you do a better job at work.
 
