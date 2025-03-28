@@ -18,9 +18,13 @@ I've also added the ability to change date. Unfortunately I stopped the recordin
 You can find everything in the [repo](https://github.com/uittorio/reflect).
 
 ## Vibe coding or not?
-I didn't learn anything about coding during this session.
-This is probably not the way to do vibe coding if you are a software engineer. At the end of the session I read through the code and I realised that it was taking me a long time to understand what was happening.
-I can imagine a process where you keep feeding the AI, but you review the code as it is generated. The AI could do the heavy lifting, finding the best libraries, simplifying some algorithms and give you some shortcuts while you think about the bigger picture.
+I didn't learn anything about coding during this session. This is probably not the way to do vibe coding if you are a software engineer.
+
+At the end of the session, I read through the code and realized that it was taking me a long time to understand what was happening. 
+I can imagine a process where you keep feeding the AI, but you review the code as it is generated. 
+The AI could do the heavy lifting: finding the best libraries, simplifying some algorithms, and giving you some shortcuts while you think about the bigger picture.
+
+I feel more fulfilled creating a product with a group of people! Maybe I should try software teaming with AI.
 
 ### Links
 - You can find the app [here](https://github.com/uittorio/reflect)
