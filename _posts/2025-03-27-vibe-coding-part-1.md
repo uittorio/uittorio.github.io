@@ -8,7 +8,7 @@ categories: blog
 
 I had some time off, and I decided to give it a try! I wanted to form my own opinion about using AI agents to create all the code for an app. Honestly, I am very pessimistic about this, but that's why I want to try.
 
-<img src="/assets/part-1.png" alt="part 1 youtube screnshot" style="max-width: 400px; width: 100%; height: auto;">
+<img src="/assets/part-1.png" alt="part 1 youtube screenshot" style="max-width: 400px; width: 100%; height: auto;">
 
 ### What am I building?
 The app I want to build is called Reflect. It is an app that lets you take notes at the end of the day. The purpose of the app is to help you reflect on your workday, write down feedback you want to give, or note any actions to help you do a better job at work.
@@ -38,7 +38,7 @@ When using the Figma designer, I noticed that I didn’t spend enough time defin
     - [What am I actually building](https://youtu.be/HWfvYqiznZ8?t=106)
     - [First try - AI to design the app with Figma wireframe designer](https://youtu.be/HWfvYqiznZ8?t=225)
     - [Let's try again to design the App](https://youtu.be/HWfvYqiznZ8?t=440)
-    - [Giving it some Context to cursor](https://youtu.be/HWfvYqiznZ8?t=766)
+    - [Giving some Context to cursor](https://youtu.be/HWfvYqiznZ8?t=766)
     - [Let's code with Cursor](https://youtu.be/HWfvYqiznZ8?t=971)
     - [Embarrassing moment where I was waiting for no reasons](https://youtu.be/HWfvYqiznZ8?t=1237)
     - [We finally see an app](https://youtu.be/HWfvYqiznZ8?t=1383)
